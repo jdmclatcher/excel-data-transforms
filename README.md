@@ -1,5 +1,5 @@
 # Excel Data Transforms
-Various python scripts that automate data transformations and provide data analysis for certain Excel sheets.
+Collection of python scripts to perform analysis and provide insights on Excel reports containing sales and subscription data. The scripts analyze the data and then automatically edit the provided Excel files with various enchancements to 'cleanup' the data and provide quantified insights directly in the Excel sheet as new data rows & columns.
 
 ## subs_transform.pyw
 
